@@ -1,0 +1,79 @@
+比较两份代码的相似度　-c /root/CPP/opencv03/tgt/王八蛋/getIntrinsicParameter.cpp /root/CPP/opencv03/tgt/王七蛋/Calibration3.cpp
+-c /root/CPP/opencv03/src/王八蛋/getIntrinsicParameter.cpp /root/CPP/opencv03/src/王七蛋/Calibration3.cpp
+遍历目录下所有文件夹，生成png到制定目录下 -codes2imgs /root/CPP/opencv03/src /root/CPP/opencv03/123
+
+比较目录下所有文件夹内图片两两之间的相似度 -CheckCurDir /root/CPP/opencv03/123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+模式一：比较两份代码相似度
+./opencv03 -c /root/CPP/opencv03/src/王八蛋/getIntrinsicParameter.cpp /root/CPP/opencv03/src/王七蛋/Calibration3.cpp
+
+模式二：比较目录下两两文件夹内所有代码相似度
+./opencv03 -codes2imgs /root/CPP/opencv03/src /root/CPP/opencv03/tgt
+./opencv03 -CheckCurDir /root/CPP/opencv03/tgt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-c /root/CPP/opencv03/tgt/ldh/getIntrinsicParameter.cpp /root/CPP/opencv03/tgt/zcy/h.cpp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
